@@ -1,4 +1,4 @@
 // Import stylesheets
 import './style.css';
 
-console.log(b1);auto
+console.log(b1)
